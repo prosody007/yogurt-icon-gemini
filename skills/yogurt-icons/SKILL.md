@@ -1,6 +1,6 @@
 ---
 name: yogurt-icons
-description: Search the Yogurt Icon library and retrieve SVG or React JSX when the user wants icons for an interface or project.
+description: Search 7,000+ free Yogurt Icon icons and retrieve SVG or React JSX when the user needs icons for an interface or project.
 ---
 
 Use the Yogurt Icon MCP tools to search before retrieving an icon. `search_icons` accepts English or Chinese keywords. Use `list_categories` when a category would help narrow the result.

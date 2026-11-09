@@ -1,6 +1,10 @@
 # Yogurt Icon for Gemini CLI
 
-Search the [Yogurt Icon](https://icon.ggeric.top) catalog from Gemini CLI and retrieve existing icons as SVG or React JSX. The extension connects to a public, read-only Streamable HTTP MCP server. Searching and retrieving icons require no Yogurt account, API key, or OAuth authorization.
+**7,000+ free icons for Gemini CLI.** Find an icon in the [Yogurt Icon](https://icon.ggeric.top) library, then get ready-to-use SVG or React JSX for your interface. No Yogurt account, API key, or sign-up is needed to search or retrieve icons.
+
+Once enabled, Gemini can choose Yogurt Icon for icon requests. You can also specify it: "Use Yogurt Icon to find an outline settings icon and return its 24px SVG." Automatic tool selection and approval prompts are controlled by Gemini CLI.
+
+The extension connects to a public, read-only Streamable HTTP MCP server.
 
 ## Install
 

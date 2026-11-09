@@ -1,7 +1,7 @@
 {
   "name": "yogurt-icon",
-  "version": "1.3.1",
-  "description": "Search icons and retrieve SVG or React JSX from Yogurt Icon.",
+  "version": "1.3.4",
+  "description": "7,000+ free icons for Gemini CLI. Get SVG or React JSX without a Yogurt account.",
   "mcpServers": {
     "yogurt-icon": {
       "httpUrl": "https://icon.ggeric.top/api/mcp?channel=plugin"
