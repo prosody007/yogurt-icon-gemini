@@ -1,6 +1,6 @@
 # Yogurt Icon for Gemini CLI
 
-[![M8ven Score](https://m8ven.ai/badge/mcp/prosody007/yogurt-icon-gemini)](https://m8ven.ai/mcp/prosody007/yogurt-icon-gemini?s=readme)
+[![M8ven Score](https://m8ven.ai/badge/mcp/prosody007-yogurt-icon-gemini-1oklbh?v=a930bbb8d323a5d097bd4bfa56f4c8d0)](https://m8ven.ai/mcp/prosody007-yogurt-icon-gemini-1oklbh?s=readme)
 
 **7,000+ free icons for Gemini CLI.** Find an icon in the [Yogurt Icon](https://icon.ggeric.top) library, then get ready-to-use SVG or React JSX for your interface. No Yogurt account, API key, or sign-up is needed to search or retrieve icons.
 
